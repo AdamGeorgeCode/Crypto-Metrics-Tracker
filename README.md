@@ -1,4 +1,4 @@
-# crypto-metrics-tracker
+# Crypto-Metrics-Tracker
 
 # Cryptocurrency Metrics Tracker – Exchange Price Differentials
 
